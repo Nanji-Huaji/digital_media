@@ -11,10 +11,14 @@
             "id": "1985be661ab39ef1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "数字视频编码.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "数字视频编码"
             }
           }
         ]
@@ -90,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "数字视频编码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "数字视频编码 的反向链接列表"
             }
           },
           {
@@ -147,22 +151,21 @@
             }
           },
           {
-            "id": "b52ebd848fc55c5f",
+            "id": "cf2b9521a324d651",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "大纲"
             }
           },
           {
-            "id": "cd2467466945726a",
+            "id": "a0b9a6b3d4ec1fe8",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -176,7 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -190,8 +193,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cd2467466945726a",
+  "active": "a0b9a6b3d4ec1fe8",
   "lastOpenFiles": [
+    "Pasted image 20251126214605.png",
+    "Pasted image 20251126211614.png",
+    "数字视频编码.md",
+    "static",
+    "Pasted image 20251126211809.png",
     "未命名 1.base",
     "未命名.base",
     "欢迎.md"
