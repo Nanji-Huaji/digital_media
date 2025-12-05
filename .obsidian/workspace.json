@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d24f38fb35bada1a",
+        "id": "235a183cb7380e85",
         "type": "tabs",
         "children": [
           {
-            "id": "7abed5ad5c7a20d9",
+            "id": "8b20f47876b0406c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 301.5,
-    "collapsed": true
+    "width": 301.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,19 +194,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7abed5ad5c7a20d9",
+  "active": "8b20f47876b0406c",
   "lastOpenFiles": [
-    "Pasted image 20251203143039.png",
-    "未命名.md",
     "数字视频编码.md",
-    "Pasted image 20251127154758.png",
-    "Pasted image 20251127154736.png",
+    "Pasted image 20251205181504.png",
+    "Pasted image 20251205181057.png",
+    "Pasted image 20251205180829.png",
+    "Pasted image 20251205180710.png",
+    "Pasted image 20251205175222.png",
+    "Pasted image 20251205175220.png",
+    "Pasted image 20251205175216.png",
+    "Pasted image 20251205175156.png",
+    "Pasted image 20251205170504.png",
+    "Pasted image 20251205164851.png",
+    "未命名.md",
     "欢迎.md",
-    "Pasted image 20251127141912.png",
-    "Pasted image 20251126214605.png",
-    "Pasted image 20251126211614.png",
     "static",
-    "Pasted image 20251126211809.png",
     "未命名 1.base",
     "未命名.base"
   ]
